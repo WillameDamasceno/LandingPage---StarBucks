@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+main{
+
+}
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.main_menu{
+    display: flex;
+    gap: 32%;
+    justify-content: space-around;
+}
